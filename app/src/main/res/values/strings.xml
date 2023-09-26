@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationDrawerWithRecyclerView</string>
+    <string name="foodappName">Yummy </string>
+    <string name="appSlogan">Where Flavor Meets Fantasy, Every Dish a Symphony </string>
+
+    <string name="open">Open </string>
+    <string name="close">Close </string>
+
+
+
+    <string name="food_description">In today\'s fast-paced world, finding delicious and diverse food options has never been easier thanks to our innovative Food App. Whether you\'re a seasoned foodie or simply looking for a quick bite, our app is your culinary companion, offering a wide array of features to enhance your dining experience. </string>
+
+</resources>

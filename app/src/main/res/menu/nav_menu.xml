@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home Page"/>
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/restaurant_icon"
+            android:title="Restaurant"/>
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/food_icon"
+            android:title="Food"/>
+        <item
+            android:id="@+id/nav_trend"
+            android:icon="@drawable/trend_icon"
+            android:title="Trends"/>
+
+
+
+    </group>
+
+    <item android:title="">
+
+        <menu>
+
+            <group>
+
+                <item
+                    android:title="About"
+                    android:icon="@drawable/info_icon"
+                    android:id="@+id/info_icon"/>
+
+                <item
+                    android:title="Logout"
+                    android:icon="@drawable/logout_icon"
+                    android:id="@+id/logout_icon"/>
+
+            </group>
+
+
+        </menu>
+
+    </item>
+
+
+</menu>
