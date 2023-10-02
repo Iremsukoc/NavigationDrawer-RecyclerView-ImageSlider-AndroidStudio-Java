@@ -12,4 +12,4 @@ In this project, an application similar to a food application was developed in J
 
 -Subsequently, a header was created. Both the header and the item list were defined within the "navigationView" inside the main activity. Similarly, a custom toolbar was designed and placed in the relative layout of the main activity.
 
-<img src = "app/src/main/res/AppImages/navigationDrawerPrtsc" witdh="500" height="700">
+<img src = "app/src/main/res/AppImages/navigationDrawerPrtsc.png" witdh="500" height="700">
