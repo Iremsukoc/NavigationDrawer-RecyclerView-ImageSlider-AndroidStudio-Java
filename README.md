@@ -25,6 +25,24 @@ In this project, an application similar to a food application was developed in J
 ### Recycler View
 -When the 'Food' option is selected in the navigation drawer, you will notice a horizontal RecyclerView displaying multiple food images. 
 -To enable this functionality, we have implemented a data class and an adapter class to manage the properties of each item within the RecyclerView.
--Afterward, we populated the RecyclerView by assigning values to a one-dimensional array of type FoodData within the Food class.
+-Afterward, we populated the RecyclerView by assigning values to a one-dimensional array of type FoodData within the Food class.  </br></br>
+
+ 
+<p align="center">
+  <img src = "app/src/main/res/AppImages/recyclerViewPrtsc.png" witdh="500" height="700">
+</p>
+
+
+</br> 
+-Related components: activity_food, food_item_list, custom_toolbar, Food, FoodAdapter, FoodData
+
+
+### Full Screen Food Image 
+-When you click on any food image in the RecyclerView, the FullScreenFoodImage class is launched as defined in the FoodAdapter's onBindViewHolder method. The selected image is displayed in this class with an animation.
+-The image to be displayed is retrieved from the FoodAdapter class using an intent. </br></br>
+ 
+<p align="center">
+  <img src = "app/src/main/res/AppImages/pizzaPrtsc.png" witdh="500" height="700">
+</p>
 
 
