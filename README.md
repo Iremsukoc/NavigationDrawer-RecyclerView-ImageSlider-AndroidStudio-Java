@@ -18,4 +18,12 @@ In this project, an application similar to a food application was developed in J
   <img src = "app/src/main/res/AppImages/navigationDrawerPrtsc.png" witdh="500" height="700">
 </p>
 
+</br> -Related components: nav_menu, nav_header,custom_toolbar, activity_main and MainActivity
+
+
+### Recycler View
+-When the 'Food' option is selected in the navigation drawer, you will notice a horizontal RecyclerView displaying multiple food images. 
+-To enable this functionality, we have implemented a data class and an adapter class to manage the properties of each item within the RecyclerView.
+-Afterward, we populated the RecyclerView by assigning values to a one-dimensional array of type FoodData within the Food class.
+
 
