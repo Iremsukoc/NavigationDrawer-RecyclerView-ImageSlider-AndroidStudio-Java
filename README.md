@@ -18,7 +18,8 @@ In this project, an application similar to a food application was developed in J
   <img src = "app/src/main/res/AppImages/navigationDrawerPrtsc.png" witdh="500" height="700">
 </p>
 
-</br> -Related components: nav_menu, nav_header,custom_toolbar, activity_main and MainActivity
+</br> 
+-Related components: nav_menu, nav_header,custom_toolbar, activity_main and MainActivity
 
 
 ### Recycler View
