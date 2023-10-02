@@ -14,4 +14,8 @@ In this project, an application similar to a food application was developed in J
 
 -By default, Home Page is selected at first startup. </br></br>
 
-<img src = "app/src/main/res/AppImages/navigationDrawerPrtsc.png" witdh="500" height="700">
+<p align="center">
+  <img src = "app/src/main/res/AppImages/navigationDrawerPrtsc.png" witdh="500" height="700">
+</p>
+
+
